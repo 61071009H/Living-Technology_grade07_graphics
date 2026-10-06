@@ -1,0 +1,13 @@
+{
+  "name": "three-views-classroom-game",
+  "version": "1.0.0",
+  "private": false,
+  "description": "七年級三視圖互動教學競賽遊戲",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

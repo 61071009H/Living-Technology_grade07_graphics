@@ -1,0 +1,16 @@
+services:
+  - type: web
+    name: three-views-game
+    runtime: node
+    plan: free
+    buildCommand: npm install
+    startCommand: npm start
+    envVars:
+      - key: NODE_ENV
+        value: production
+      - key: SUPABASE_URL
+        sync: false
+      - key: SUPABASE_SERVICE_KEY
+        sync: false
+      - key: TEACHER_PASSWORD
+        sync: false
