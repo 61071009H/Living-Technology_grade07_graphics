@@ -1,0 +1,9 @@
+node_modules/
+.env
+.env.*
+!.env.example
+game-data.json
+game-data.*.json
+server-runtime.log
+server-runtime-error.log
+npm-debug.log*
