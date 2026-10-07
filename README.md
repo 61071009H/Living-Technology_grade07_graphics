@@ -10,7 +10,7 @@ Three-view drawing game
 
 歡迎老師們給予指教！
 
-![image](picture or gif url)
+![image](picture or gif url)https://github.com/61071009H/Living-Technology_grade07_graphics/blob/main/%E4%B8%89%E8%A6%96%E5%9C%96%E9%81%8A%E6%88%B2%E7%A4%BA%E7%AF%84.gif
 
 ## 我的提示詞
 七年級「三視圖」線上互動競賽遊戲開發需求
